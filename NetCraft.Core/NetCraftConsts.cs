@@ -4,6 +4,6 @@
     {
         public const string LocalizationSourceName = "NetCraft";
 
-        public const bool MultiTenancyEnabled = true;
+        public const bool MultiTenancyEnabled = false;
     }
 }

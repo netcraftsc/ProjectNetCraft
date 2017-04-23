@@ -66,7 +66,7 @@ namespace NetCraft.Migrations.SeedData
                         UserName = User.AdminUserName,
                         Name = "System",
                         Surname = "Administrator",
-                        EmailAddress = "admin@aspnetboilerplate.com",
+                        EmailAddress = "netcraftsc@gmail.com",
                         IsEmailConfirmed = true,
                         Password = new PasswordHasher().HashPassword(User.DefaultPassword)
                     });

@@ -18,8 +18,8 @@ namespace NetCraft.Migrations.SeedData
         public void Create()
         {
             //Emailing
-            AddSettingIfNotExists(EmailSettingNames.DefaultFromAddress, "admin@mydomain.com");
-            AddSettingIfNotExists(EmailSettingNames.DefaultFromDisplayName, "mydomain.com mailer");
+            AddSettingIfNotExists(EmailSettingNames.DefaultFromAddress, "netcraftsc@gmail.com");
+            AddSettingIfNotExists(EmailSettingNames.DefaultFromDisplayName, "NetCraft mailer");
 
             //Languages
             AddSettingIfNotExists(LocalizationSettingNames.DefaultLanguage, "en");

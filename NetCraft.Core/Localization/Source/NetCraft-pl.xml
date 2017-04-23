@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="pl">
+  <texts>
+    <text name="HomePage" value="Strona główna" />
+    <text name="About" value="O nas" />
+    <text name="WellcomeMessage" value="Witaj na NetCraft!" />
+
+    <text name="FormIsNotValidMessage" value="Formularz nie został uzupełniony poprawnie. Sprawdź i popraw błędy." />
+    <text name="TenantNameCanNotBeEmpty" value="Nazwa dzierżawcy nie może być pusta" />
+
+    <text name="InvalidUserNameOrPassword" value="Nieprawidłowa nazwa użytkownika lub hasło" />
+    <text name="ThereIsNoTenantDefinedWithName{0}" value="W systemie brak określonego dzierżawcy o nazwie {0}" />
+    <text name="TenantIsNotActive" value="Dzierżawca {0} nie jest aktywny." />
+    <text name="UserIsNotActiveAndCanNotLogin" value="Użytkownik {0} nie jest aktywny i nie może się zalogować." />
+    <text name="UserEmailIsNotConfirmedAndCanNotLogin">Twój adres email nie został potwierdzony. Nie można się zalogować</text>
+    <text name="UserLockedOutMessage">Konto użytkownika zostało zablokowane. Proszę spróbować później.</text>
+    <text name="PleaseEnterLoginInformation" value="Proszę podać informację do zalogowania" />
+    <text name="TenancyName" value="Nazwa dzierżawy" />
+    <text name="UserNameOrEmail" value="Nazwa użytkownika lub email" />
+    <text name="Password" value="Hasło" />
+    <text name="RememberMe" value="Zapamiętaj mnie" />
+    <text name="LogIn" value="Zaloguj" />
+
+    <text name="LoginFailed" value="Logowanie nie powiodło się!" />
+
+    <text name="NameSurname" value="Nazwisko" />
+    <text name="UserName" value="Nazwa użytkownika" />
+    <text name="Name" value="Imię" />
+    <text name="Surname" value="Nazwisko" />
+    <text name="EmailAddress" value="Adres email" />
+
+    <text name="Tenants" value="Dzierżawcy" />
+    <text name="SavedSuccessfully" value="Zapisano pomyślnie" />
+    <text name="CreateNewTenant" value="Utwórz nowego dzierżawcę" />
+    <text name="AdminEmailAddress" value="Adres email administratora" />
+    <text name="Save" value="Zapisz" />
+    <text name="Cancel" value="Anuluj" />
+    <text name="TenantName_Regex_Description" value="Nazwa dzierżawcy musi mieć co najmniej 2 znaki, zaczynać się od litery oraz składać z samych liter, cyfr, myślnika lub podkreślnika." />
+    <text name="DefaultPasswordIs" value="Domyślne hasło to {0}" />
+    <text name="CanBeEmptyToLoginAsHost" value="Może być pusty, aby zalogować się jako host." />
+    <text name="Register" value="Zarejestruj się" />
+    <text name="OrLoginWith" value="Lub zaloguj z" />
+    <text name="WaitingForActivationMessage" value="Twoje konto oczekuje na aktywację przez administratora systemu." />
+    <text name="TenantSelection" value="Wybór dzierżawcy" />
+    <text name="TenantSelection_Detail" value="Proszę wybrać jednego z podanych dzierżawców." />
+    <text name="Logout" value="Wyloguj" />
+    
+    <text name="RegisterFormUserNameInvalidMessage">Proszę nie podawać adresu email w polu nazwy użytkownika.</text>
+
+    <text name="DatabaseConnectionString" value="Database connection string" />
+    <text name="Users" value="Użytkownicy" />
+    <text name="IsActive" value="Aktywny" />
+    <text name="FullName" value="Imię i nazwisko" />
+    <text name="CreateNewUser" value="Utwórz nowego użytkownika" />
+    <text name="Yes" value="Tak" />
+    <text name="No" value="Nie" />
+    <text name="Optional" value="Opcjonalnie" />
+  </texts>
+</localizationDictionary>
